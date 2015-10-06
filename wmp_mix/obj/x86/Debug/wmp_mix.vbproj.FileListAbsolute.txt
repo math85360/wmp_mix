@@ -1,0 +1,34 @@
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\bin\Debug\wmp_mix.exe
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\bin\Debug\wmp_mix.pdb
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\bin\Debug\wmp_mix.xml
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\wmp_mix.vbproj.ResolveComReference.cache
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\wmp_mix.Form1.resources
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\wmp_mix.Resources.resources
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\wmp_mix.exe
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\wmp_mix.xml
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\obj\x86\Debug\wmp_mix.pdb
+C:\Users\Mathieu\AppData\Local\Temporary Projects\wmp_mix\bin\Debug\wmp_mix.exe.config
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\bin\Debug\wmp_mix.exe.config
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\wmp_mix.vbproj.ResolveComReference.cache
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\wmp_mix.exe
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\wmp_mix.xml
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\wmp_mix.pdb
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\bin\Debug\wmp_mix.exe
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\bin\Debug\wmp_mix.pdb
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\bin\Debug\wmp_mix.xml
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\wmp_mix.Form1.resources
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\wmp_mix.Resources.resources
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mathieu\documents\visual studio 2010\Projects\wmp_mix\wmp_mix\obj\x86\Debug\GenerateResource.write.1.tlog
